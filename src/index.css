@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-title{
+  font-size: 25px ;
+}
+
+i{
+  cursor: pointer;
+  font-size: 20px;
+}
